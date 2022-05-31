@@ -1,0 +1,28 @@
+header { 
+    background-color: black; background-image: url(../img/header.jpg);background-repeat: no-repeat; background-size: cover; color: white; height: 300px; padding: 20px;
+}
+h1 {
+    font-family: 'Pacifico', cursive; color: black; text-align: center;
+}
+h2 {
+    font-family: 'Pacifico', cursive; color: black; text-align: center;
+}
+
+p {
+    text-align: justify; font-family: 'Pacifico', cursive;
+}
+.img1 {
+    height: 200px; padding: 20px; 
+}
+footer {
+    text-align: center; background-color: orangered;
+}
+.img2 {
+    height: 250px;padding: 20px;
+}
+.img3 {
+    height: 300px;padding: 20px;
+}
+section {
+    margin: 60px;
+}
